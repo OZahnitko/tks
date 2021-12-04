@@ -1,0 +1,3 @@
+[submodule "packages/tks-exercise-tracker-client"]
+	path = packages/tks-exercise-tracker-client
+	url = git@github.com:OZahnitko/tks-exercise-tracker-client.git
